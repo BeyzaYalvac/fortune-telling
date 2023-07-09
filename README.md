@@ -1,4 +1,4 @@
-### Fortune Teller
+# Fortune Teller
 
 >A new Flutter project.
 
